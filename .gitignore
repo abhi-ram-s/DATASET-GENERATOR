@@ -1,0 +1,23 @@
+# Ignore .env file
+.env
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS specific files
+.DS_Store
+
+# VS Code settings
+.vscode/
